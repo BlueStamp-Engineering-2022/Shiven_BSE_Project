@@ -21,7 +21,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone, I soldered all the components of the WaveShield, the resistors, transistors, capacitors, microcontrollers, and the sd-card holder, and then attached the WaveShield to the Arduino board. Then using a breadboard I wired in an LCD display and an HC-SR04 ultrasonic sensor. If an object is placed in front of the ultrasonic sensor, it sends out a sound wave and tracks the amount of time it takes for the sound wave to get back, via code, and then uses the d= rt formula to determine the distance the object is away from the sensor. Then it displays it on the LCD display. If the object is farther than 300 cm away or if the object is too close, it will display an error.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://i3.ytimg.com/vi/vfiYjMxOjVo/maxresdefault.jpg)](https://www.youtube.com/watch?v=vfiYjMxOjVo&list=PLe-u_DjFx7ety6PBV7EGy1wbiB0mTp2jW&index=71 "First Milestone"){:target="_blank" rel="noopener"}
 
 # Starter Project
   
