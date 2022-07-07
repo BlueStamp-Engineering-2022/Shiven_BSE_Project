@@ -13,7 +13,7 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+Using an ultrasonic sensor, the Arduino detects how far an object is from the box. Depending on the distance, the servo motors move at certain speeds and to different degrees while the LED lights display a matrix that represents an emotion. I struggled with power problems in the LEDS. Sometimes they would turn on, sometimes they would flicker and turn off, and sometime they would display random lighting. I replaced the wires and the flipped the order of the LEDs and learned that it was a connectivity issue. I enjoyed coding the servo and LEDs to move and light up given certain conditions. Next is to add on the 3-D printed parts and build the app.
 
 [![Third Milestone](https://i3.ytimg.com/vi/Ip_CgZjYmK0/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ip_CgZjYmK0){:target="_blank" rel="noopener"}
 # First Milestone
